@@ -1,67 +1,168 @@
-# Hi, I'm Sheikh Fareed 👋
+<h1 align="center">Hey there 👋, I'm Sheikh Fareed</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | CS Undergrad @ FAST-NUCES</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhfareed99)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheikhFareed99)  
-[![Email](https://img.shields.io/badge/Email-fareedsheikh2060@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareedsheikh2060@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikhfareed99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fareedsheikh2060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SheikhFareed99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
-
-## 🎓 Education
-
-**BS Computer Science** (08/2023 – 08/2027)  
-**FAST-NUCES Lahore** | CGPA: 3.59  
-
-🏆 4x Dean's List of Honor  
-🎓 PEEF Scholarship Holder  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;AI+%26+RAG+Systems+Builder;4x+Dean's+List+Honoree;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 Skills
+## 🧑‍💻 About Me
 
-**Programming Languages:** JavaScript, Python, C++, C, Assembly  
-**Libraries / Frameworks:** React.js, Tailwind CSS, Node.js, Express.js, Next.js, Django REST Framework, RAG, Hugging Face, LangChain  
-**Tools / Platforms:** VS Code, Git, GitHub, Postman, Airflow, Docker, Anti Gravity  
-**Databases:** SQL, MongoDB, ChromaDB  
-
----
-
-## 🛠 Projects
-
-### [Vardaan Wear](https://vardaanswear.pk)  
-*Full Stack MERN Developer*  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Vercel, Render  
-- Developed a responsive e-commerce platform with secure JWT-based authentication.  
-- Optimized frontend performance with React components.  
-- Deployed CI/CD pipelines for high availability. Frontend on Vercel, backend on Render.  
-
-### [EventHub](https://github.com/SheikhFareed99/sda-project-semester-5-2025)  
-*Event Management & Ticketing System*  
-**Tech Stack:** Next.js, Django REST Framework, Python, SQLite/PostgreSQL, QR Code Scanner  
-- Built a scalable event platform using SSR and SEO-friendly architecture.  
-- Integrated QR Code scanning system for secure, one-time ticket authentication.  
-
-### [DocChat](https://github.com/SheikhFareed99/DocChat)  
-*RAG System with Vector Embeddings & Semantic Search*  
-**Tech Stack:** Python, LangChain, Hugging Face, ChromaDB  
-- Built a Retrieval-Augmented Generation system with multi-query document chunking, reranking, vector embeddings, LLMs, and semantic similarity search over ChromaDB.  
+- 🎓 **BS Computer Science** @ **FAST-NUCES Lahore** (2023–2027) — **CGPA: 3.59**
+- 🏆 **4x Dean's List of Honor** | **PEEF Scholarship Holder**
+- 💻 Passionate about **Full Stack Development**, **AI/ML**, and **RAG Systems**
+- 🌱 Currently exploring **LangChain, Hugging Face, and LLM-powered applications**
+- 📫 Reach me at **fareedsheikh2060@gmail.com** | **+(92) 303-6578904**
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack
 
-- Participated in **ITU Coding Competition**  
-- Built multiple full-stack projects with real-world applications  
-- Continuous learning in AI, web development, and cloud technologies  
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+## 🚀 Featured Projects
 
-- Email: fareedsheikh2060@gmail.com  
-- Phone: +(92) 3036578904  
-- LinkedIn: [Sheikh Fareed](https://www.linkedin.com/in/sheikhfareed99)  
-- GitHub: [SheikhFareed99](https://github.com/SheikhFareed99)  
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 [Vardaan Wear](https://vardaanswear.pk)
+**Full Stack E-Commerce Platform**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+- 🔐 Secure JWT-based authentication
+- ⚡ Optimized React components for performance
+- 🚀 CI/CD pipelines — Frontend on Vercel, Backend on Render
+
+</td>
+<td width="50%">
+
+### 🎫 [EventHub](https://github.com/SheikhFareed99/sda-project-semester-5-2025)
+**Event Management & Ticketing System**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- 🌐 SSR & SEO-friendly architecture
+- 📱 QR Code scanning for one-time ticket auth
+- 📈 Scalable event platform
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [DocChat](https://github.com/SheikhFareed99/DocChat)
+**RAG System with Semantic Search**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+
+- 🧠 Retrieval-Augmented Generation with LangChain & Hugging Face
+- 📄 Multiquery document chunking & reranking
+- 🔍 Vector embeddings & semantic similarity search over ChromaDB
+
+</td>
+<td width="50%">
+
+### 🏆 Achievements
+- 🌟 **4x Dean's List of Honor** — FAST-NUCES
+- 🎓 **PEEF Scholarship Holder**
+- 💻 **Programming in Python** — ITU Coding Competition
+
+</td>
+</tr>
+</table>
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SheikhFareed99&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhFareed99&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFareed99&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏄 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheikhFareed99&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SheikhFareed99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repos!</h3>
