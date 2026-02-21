@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sheikh Fareed</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | CS Undergrad @ FAST-NUCES</h3>
+<h3 align="center">🚀 Full Stack Developer | GEN AI Enthusiast | CS Undergrad @ FAST-NUCES</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sheikhfareed99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -139,30 +139,5 @@
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SheikhFareed99&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhFareed99&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFareed99&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏄 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheikhFareed99&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SheikhFareed99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h3 align="center">⭐ If you like my work, consider giving a star to my repos!</h3>
