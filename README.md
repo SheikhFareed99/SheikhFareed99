@@ -115,16 +115,17 @@
 <tr>
 <td width="50%">
 
-### 🤖 [DocChat](https://github.com/SheikhFareed99/DocChat)
-**RAG System with Semantic Search**
+### ⚖️ [JurisAI](https://juris-ai-rag-ai-legal-research-assi.vercel.app/)
+**AI-Powered Legal Research Assistant (RAG System)**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A2540?style=flat-square&logoColor=white)
 
-- 🧠 Retrieval-Augmented Generation with LangChain & Hugging Face
-- 📄 Multiquery document chunking & reranking
-- 🔍 Vector embeddings & semantic similarity search over ChromaDB
+- 🧠 Retrieval-Augmented Generation using LangChain , LLM APIs and Mern Stack
+- 📄 Legal document ingestion, chunking & preprocessing pipeline with storage system on azure blob and database as mongodb  
+- 🔍 Vector embeddings & semantic search using Pinecone  
+- ⚖️ Context-aware legal insights with AI-powered query system with Fast API and backend deployed on Azure app service    
 
 </td>
 <td width="50%">
