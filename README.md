@@ -17,8 +17,7 @@
 
 - 🎓 **BS Computer Science** @ **FAST-NUCES Lahore** (2023–2027) — **CGPA: 3.59**
 - 🏆 **4x Dean's List of Honor** | **PEEF Scholarship Holder**
-- 💻 Passionate about **Full Stack Development**, **AI/ML**, and **RAG Systems**
-- 🌱 Currently exploring **LangChain, Hugging Face, and LLM-powered applications**
+- 💻 Passionate about **Full Stack Development**, **GenAI/ML**, and **RAG Systems**
 - 📫 Reach me at **fareedsheikh2060@gmail.com** | **+(92) 303-6578904**
 
 ---
@@ -112,6 +111,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -128,6 +128,27 @@
 - ⚖️ Context-aware legal insights with AI-powered query system with Fast API and backend deployed on Azure app service    
 
 </td>
+
+<td width="50%">
+  
+### 🏫 [AiCo — Smart Classroom Platform](https://smart-classroom-gold.vercel.app)
+**Multi-Service AI-Powered Classroom**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit_WebRTC-EB1C24?style=flat-square&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+- 🤖 Per-course AI chatbot using RAG — LangChain + Pinecone + Groq LLM with hybrid retrieval (BM25 + semantic + cross-encoder reranking)
+- 🎙️ Real-time voice channels with teacher moderation (mute/kick/screen share) via LiveKit SFU + WebRTC
+- 🖊️ Collaborative whiteboard (Fabric.js), plagiarism detection, and assignment/grading pipeline
+- 📄 Multi-format document ingestion (PDF/DOCX/PPTX + OCR) stored on Azure Blob, deployed via Docker + Fly.io
+  </td>
+  </tr>
+  <tr>
 <td width="50%">
 
 ### 🏆 Achievements
