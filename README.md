@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sheikh Fareed</h1>
-<h3 align="center">🚀 Full Stack Developer | GEN AI Enthusiast | CS Undergrad @ FAST-NUCES</h3>
+<h3 align="center">🚀 Full Stack Developer | GenAI & Agentic AI Engineer | CS @ FAST-NUCES</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sheikhfareed99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,16 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;AI+%26+RAG+Systems+Builder;4x+Dean's+List+Honoree;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Agentic+AI+%26+LangGraph+Builder;AI+%26+RAG+Systems+Builder;4x+Dean's+List+Honoree;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BS Computer Science** @ **FAST-NUCES Lahore** (2023–2027) — **CGPA: 3.59**
-- 🏆 **4x Dean's List of Honor** | **PEEF Scholarship Holder**
+- 🎓 **BS Computer Science** @ **FAST-NUCES Lahore** — **CGPA: 3.58**
+- 🏆 **5x Dean's List of Honor** | **PEEF Scholarship Holder**
 - 💻 Passionate about **Full Stack Development**, **GenAI/ML**, and **RAG Systems**
+- 🤖 Building **Agentic AI** systems with **LangGraph** — state machines, multi-agent orchestration, and autonomous workflows
 - 📫 Reach me at **fareedsheikh2060@gmail.com** | **+(92) 303-6578904**
 
 ---
@@ -46,6 +47,7 @@
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </td>
@@ -83,6 +85,22 @@
 <tr>
 <td width="50%">
 
+### 🎙️ [Mavericks LMS — Agentic AI Interviewer](https://github.com/MavionGH/Mavericks-LMS)
+**Voice-Based Agentic AI Mock Interviewer (Project Lead)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A2540?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+- 🤖 Agent orchestration via a **LangGraph** state machine (StateGraph + conditional routing) that classifies replies and drives adaptive follow-ups
+- 🧠 RAG pipeline with semantic chunking + Pinecone per-course namespaces grounding every generated question in real course content
+- 🎙️ Server-side Whisper STT with speech metrics folded into a composite technical/communication/confidence score
+- ⚡ Multi-provider LLM setup (Groq LLaMA-3.3-70B + OpenAI GPT-4o-mini fallback) with a rule-based scorer for graceful degradation
+
+</td>
+<td width="50%">
+
 ### 🛒 [Vardaan Wear](https://vardaanswear.pk)
 **Full Stack E-Commerce Platform**
 
@@ -94,20 +112,6 @@
 - 🔐 Secure JWT-based authentication
 - ⚡ Optimized React components for performance
 - 🚀 CI/CD pipelines — Frontend on Vercel, Backend on Render
-
-</td>
-<td width="50%">
-
-### 🎫 [EventHub](https://github.com/SheikhFareed99/sda-project-semester-5-2025)
-**Event Management & Ticketing System**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-- 🌐 SSR & SEO-friendly architecture
-- 📱 QR Code scanning for one-time ticket auth
-- 📈 Scalable event platform
 
 </td>
 </tr>
@@ -122,7 +126,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0A2540?style=flat-square&logoColor=white)
 
-- 🧠 Retrieval-Augmented Generation using LangChain , LLM APIs and Mern Stack
+- 🧠 Retrieval-Augmented Generation using LangChain, LLM APIs and Mern Stack
 - 📄 Legal document ingestion, chunking & preprocessing pipeline with storage system on azure blob and database as mongodb  
 - 🔍 Vector embeddings & semantic search using Pinecone  
 - ⚖️ Context-aware legal insights with AI-powered query system with Fast API and backend deployed on Azure app service    
@@ -132,7 +136,7 @@
 <td width="50%">
   
 ### 🏫 [AiCo — Smart Classroom Platform](https://smart-classroom-gold.vercel.app)
-**Multi-Service AI-Powered Classroom**
+**Multi-Service Agentic AI-Powered Classroom**
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -142,13 +146,27 @@
 ![LiveKit](https://img.shields.io/badge/LiveKit_WebRTC-EB1C24?style=flat-square&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-- 🤖 Per-course AI chatbot using RAG — LangChain + Pinecone + Groq LLM with hybrid retrieval (BM25 + semantic + cross-encoder reranking)
+- 🤖 Per-course **agentic AI** chatbot using RAG — LangChain + Pinecone + Groq LLM with hybrid retrieval (BM25 + semantic + cross-encoder reranking)
 - 🎙️ Real-time voice channels with teacher moderation (mute/kick/screen share) via LiveKit SFU + WebRTC
 - 🖊️ Collaborative whiteboard (Fabric.js), plagiarism detection, and assignment/grading pipeline
 - 📄 Multi-format document ingestion (PDF/DOCX/PPTX + OCR) stored on Azure Blob, deployed via Docker + Fly.io
   </td>
   </tr>
   <tr>
+<td width="50%">
+
+### 🎫 [EventHub](https://github.com/SheikhFareed99/sda-project-semester-5-2025)
+**Event Management & Ticketing System**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+- 🌐 SSR & SEO-friendly architecture
+- 📱 QR Code scanning for one-time ticket auth
+- 📈 Scalable event platform
+
+</td>
 <td width="50%">
 
 ### 🏆 Achievements
